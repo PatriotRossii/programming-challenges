@@ -13,7 +13,7 @@ Tracking repository of programming challenges progress.
 </tr>
 <tr>
   <td> $${\color{orange}\text{6. MIDI player + editor}}$$ (<a href="https://github.com/PatriotRossii/MeowIDI">player</a>) </td>
-  <td> $${\color{orange}\text{39. Trivial File Transfer Protocol (TFTP)}}$$</td>
+  <td> $${\color{orange}\text{39. Trivial File Transfer Protocol (TFTP)}}$$ (<a href="https://github.com/PatriotRossii/tftp-server">server</a>, <a href="https://github.com/PatriotRossii/tftp-client">client</a>)</td>
 <td> </td>
 </tr>
 </table>
